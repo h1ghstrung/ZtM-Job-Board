@@ -5130,4 +5130,20 @@ export const persons = [
       country: "Philippines"
     }
   },
+  {
+    id: 172,
+    name: "Michael Kenyon",
+    img: "https://avatars0.githubusercontent.com/u/40183884?v=4",
+    links: {
+      website: "http://www.ring42.com",
+      linkedin: "https://www.linkedin.com/in/mike-kenyon",
+      github: "https://github.com/h1ghstrung"
+    },
+    jobTitle: "Web and Python Developer",
+    location: {
+      city: "Greensboro",
+      state: "North Carolina",
+      country: "United States"
+    }
+  },
 ];
